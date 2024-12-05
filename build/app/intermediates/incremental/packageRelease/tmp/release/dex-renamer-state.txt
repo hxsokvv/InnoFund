@@ -1,0 +1,4 @@
+#Sun Nov 24 21:54:04 CLST 2024
+base.0=C\:\\Users\\nicol\\OneDrive\\Escritorio\\proyecto_titulo-master\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
